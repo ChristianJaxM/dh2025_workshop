@@ -153,12 +153,12 @@
             <lg n="19" xml:id="lg019">
                <l n="55">Hence he drew forth the shade of the First Parent,</l>
                <l n="56">And that of his son <persName type="real" xml:id="abel01">Abel</persName>, and of <persName xml:id="noah01">Noah</persName>,</l>
-               <l n="57">Of <persName type="real" xml:id="moses01">Moses</persName> the lawgiver, and the obedient</l>
+               <l n="57">Of <persName subtype="biblical" type="real" xml:id="moses01">Moses</persName> the lawgiver, and the obedient</l>
             </lg>
 
             <lg n="20" xml:id="lg020">
-               <l n="58"><persName xml:id="abraham01">Abraham</persName>, patriarch, and <persName type="real" xml:id="david01">David</persName>, king,</l>
-               <l n="59"><persName role="biblical" xml:id="israel01">Israel</persName> with his father and his children,</l>
+               <l n="58"><persName xml:id="abraham01">Abraham</persName>, patriarch, and <persName subtype="biblical" type="real" xml:id="david01">David</persName>, king,</l>
+               <l n="59"><persName role="patriarch" subtype="biblical" xml:id="israel01">Israel</persName> with his father and his children,</l>
                <l n="60">And <persName subtype="biblical" type="real" xml:id="rachel01">Rachel</persName>, for whose sake he did so much,</l>
             </lg>
 
